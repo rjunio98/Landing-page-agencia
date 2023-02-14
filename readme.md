@@ -1,5 +1,5 @@
-# Projeto lading page de agência XYZ
-Lading page de uma agência de fotografias. Nesse projeto foi utilizado flex e grid para melhor responsividade e principalmente para manter o padrão clean code
+# Projeto landing page de agência XYZ
+Landing page de uma agência de fotografias. Nesse projeto foi utilizado flex e grid para melhor responsividade e principalmente para manter o padrão clean code
 
 ---
 
