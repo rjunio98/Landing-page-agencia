@@ -3,11 +3,11 @@ Landing page de uma agência de fotografias. Nesse projeto foi utilizado flex e 
 
 ---
 
-[<img src="./tela.gif" alt="tela do projeto XYZ">]
+[<img src="./design/tela.gif" alt="tela do projeto XYZ">]
 
 ## Adaptado ao modo mobile
 
-[<img src="./tela-responsiva.gif" alt="tela responsiva">]
+[<img src="./design/tela-responsiva.gif" alt="tela responsiva">]
 
 ---
 
