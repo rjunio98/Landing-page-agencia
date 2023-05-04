@@ -15,3 +15,5 @@ Landing page de uma agência de fotografias. Nesse projeto foi utilizado flex e 
 
 - HTML
 - CSS
+- Git
+- VSCode
