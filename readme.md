@@ -3,6 +3,17 @@ Landing page de uma agência de fotografias. Nesse projeto foi utilizado flex e 
 
 ---
 
+## Objetivo
+Foi fazr uma landing page só com HTML e CSS (até o menu do nav).
+Algumas metodologias utilizadas
+
+- HTML Semântico
+- Animção CSS
+- Flexbox
+- Grid
+
+---
+
 [<img src="./design/tela.gif" alt="tela do projeto XYZ">]
 
 ## Adaptado ao modo mobile
